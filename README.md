@@ -53,7 +53,7 @@
 </div><br>
 </div>
 
-## 🛠️ Infra and Tools##
+## 🛠️ Infra and Tools
 
 ![linux](https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white)
 ![git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
