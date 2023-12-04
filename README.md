@@ -7,8 +7,14 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F______&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### 🙇 FullStack Web Developer 홍진욱
+<hr>
 
-[![jinwook's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzzjinwook&include_all_commits=true&show_icons=true&theme=dracula)](https://github.com/bi-sz/github-readme-stats)
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zzzjinwook" alt="zzzjinwook" /></a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zzzjinwook&show_icons=true&locale=en" alt="zzzjinwook" /></p>
+
+
 
 <!-- Body -->
 
@@ -66,3 +72,10 @@
 ![pycharm](https://img.shields.io/badge/pycharm-000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white)
 ![slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
+
+
+
+
+## Contributions
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zzzjinwook&" alt="zzzjinwook" /></p>
